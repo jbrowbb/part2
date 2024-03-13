@@ -1,0 +1,1 @@
+I know this is a new repo but the original repo wouldn't allow me to correctly branch to an empty branch and i tried fixing it multipl times. then it would let me even commit or add stuff, so i had to start a new one
