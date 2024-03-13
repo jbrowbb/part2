@@ -4,7 +4,7 @@ import requests
 
 class AricleSpider:
     def __init__(self, urls_file):
-        self.urls_files = urls_file
+        self.urls_file = urls_file
 
     def start_requests(self):
         with open(self.urls_file,'r') as file:      # reads urls from the file
